@@ -1,7 +1,3 @@
-import sys
-
-sys.path.insert(0, '/home/ubuntu/.local/lib/python3.8/site-packages')
-
 from telebot import *
 from datetime import *
 from dotenv import load_dotenv
